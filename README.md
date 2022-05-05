@@ -1,6 +1,7 @@
 # E-Commerce Back-End
 
 ## Description
+This is a back-end application built with a mySQL database for an e-commerce site 
 
 ## User Story
 ```
@@ -29,10 +30,29 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Mock-Up
+![screenshot](./images/insomnia.JPG)
+
+## Technologies Used
+- JavaScript
+- MySQL
+- NPM Express, Sequelize, MySQL2 and DotEnv packages 
 
 ## Installation
+1. Clone repository
+2. ``npm init -y``
+3. ``npm install express``
+4. ``npm install mysql2``
+5. ``npm install sequelize``
+6. ``npm install dot env``
 
 ## Usage
+- Make sure all npm packages are installed 
+- From the terminal, log in to mySQL and enter your password:
+``mysql -u root -p``
+- run the schema - ``source schema.sql``
+- `` npm run seed``
+- `` npm start``
 
 ## Links 
-- 
+- [GitHub](https://github.com/KVPang/e-commerce-back-end)
+- [Walkthrough Video]()

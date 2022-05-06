@@ -55,7 +55,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Links 
 - [GitHub](https://github.com/KVPang/e-commerce-back-end)
-- [Walkthrough Video](https://drive.google.com/file/d/1zvNa0NG1sjVMbdp2I5ySdAxxG-6CmJca/view)
+- [Walkthrough Video](https://drive.google.com/file/d/1R116ySE6aLHRLgqUUyah5vyOGUmevZdu/view)
 
 ## Contact 
 - GitHub: [KVPang](https://github.com/KVPang)
